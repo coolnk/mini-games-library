@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-19T00:00:00Z",
+  "games": [
+    {
+      "id": "bouncy-ball",
+      "title": "Bouncy Ball",
+      "description": "Watch a ball bounce around the screen with realistic physics",
+      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/mini-games-library/games/bouncy-ball-bundle.js",
+      "version": "1.0.0",
+      "author": "Mini Games Team",
+      "bundleSize": "2KB"
+    },
+    {
+      "id": "click-counter",
+      "title": "Click Counter",
+      "description": "Click the button as many times as you can in 10 seconds!",
+      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/mini-games-library/games/click-counter-bundle.js",
+      "version": "1.0.0",
+      "author": "Mini Games Team",
+      "bundleSize": "2.5KB"
+    },
+    {
+      "id": "memory-tiles",
+      "title": "Memory Tiles",
+      "description": "Watch the pattern and tap the tiles in the correct order. Test your memory!",
+      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/mini-games-library/games/memory-tiles-bundle.js",
+      "version": "1.0.0",
+      "author": "Mini Games Team",
+      "bundleSize": "3KB"
+    }
+  ]
+}
