@@ -28,6 +28,15 @@
       "version": "1.0.0",
       "author": "Mini Games Team",
       "bundleSize": "3KB"
+    },
+    {
+      "id": "caterpillar",
+      "title": "Caterpillar",
+      "description": "Guide the caterpillar to eat food and grow longer. Use arrow keys or WASD to move!",
+      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/mini-games-library/games/caterpillar-bundle.js",
+      "version": "1.0.0",
+      "author": "Mini Games Team",
+      "bundleSize": "4KB"
     }
   ]
 }
