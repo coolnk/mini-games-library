@@ -100,7 +100,7 @@
     }
 
     startTimer() {
-      const interval = this.time.addTimer({
+      const interval = this.time.addEvent({
         delay: 1000,
         callback: () => {
           this.timeLeft--;
